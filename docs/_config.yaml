@@ -14,11 +14,11 @@ google_analytics_id: ''
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/dcorujog/dcorujog.github.io'
+codeurl: 'https://github.com/dcorujog/regionereloaded_nzs'
 
 # Keep as an empty string if served up at the root. If served up at a specific
 # path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
-baseurl: '/dcorujog.github.io'
+baseurl: '/regionereloaded_nzs'
 
 # Dates are not included in permalinks
 permalink: none
